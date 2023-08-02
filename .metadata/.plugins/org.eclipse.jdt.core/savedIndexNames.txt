@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\Aluno Tarde\Documents\github_Qua209.068\Logica_programacao_e_Java\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
